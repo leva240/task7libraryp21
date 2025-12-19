@@ -1,8 +1,7 @@
 {
-    "name": "leva/pizza-library",
+    "name": "leva240/task7-library_P21",
     "description": "Pizza Library for PizzaStore pattern",
     "type": "library",
-    "license": "MIT",
     "autoload": {
         "psr-4": {
             "PizzaLibrary\\": "src/"
