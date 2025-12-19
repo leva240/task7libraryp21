@@ -1,0 +1,14 @@
+{
+    "name": "leva/pizza-library",
+    "description": "Pizza Library for PizzaStore pattern",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PizzaLibrary\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.0"
+    }
+}
